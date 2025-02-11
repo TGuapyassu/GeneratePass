@@ -12,7 +12,7 @@ Este projeto é um gerador de senhas online desenvolvido com Next.js e React. El
 - Copiar senha para a área de transferência com um clique
 - Interface responsiva e amigável
 
-- [Demo Do Projeto]()
+- [Demo Do Projeto](https://generate-pass-two.vercel.app/)
 
 ![preview](./public/generatepass.png)
 
@@ -36,7 +36,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/TGuapyassu/GeneratePass.git
     ```
 2. Navegue até o diretório do projeto:
 
