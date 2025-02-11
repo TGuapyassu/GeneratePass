@@ -41,7 +41,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd seu-repositorio
+    cd GeneratePass
     ```
 3. Instale as dependências:
 
