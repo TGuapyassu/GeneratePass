@@ -12,7 +12,7 @@ Este projeto é um gerador de senhas online desenvolvido com Next.js e React. El
 - Copiar senha para a área de transferência com um clique
 - Interface responsiva e amigável
 
-- [Demo Do Projeto](https://generate-pass-two.vercel.app/)
+- [Demo Do Projeto](https://senha.tguapyassu.com/)
 
 ![preview](./public/generatepass.png)
 
